@@ -1,6 +1,6 @@
 # 📱 Phone Compare
 
-A modern, responsive React application built with Vite that allows users to search, select, and compare smartphones side-by-side.
+A modern, responsive React application built with react that allows users to search, select, and compare smartphones side-by-side.
 
 ## 🚀 Features
 
